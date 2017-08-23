@@ -65,7 +65,7 @@
         e3: null,
         e4: null,
         items: [
-          { text: 'State 1' },
+          { text: 'State 1',abc:'test' },
           { text: 'State 2' },
           { text: 'State 3' },
           { text: 'State 4' },
